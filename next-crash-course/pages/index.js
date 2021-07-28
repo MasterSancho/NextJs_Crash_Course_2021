@@ -7,7 +7,7 @@ export default function Home() {
     <title>WebDev newz</title>
     <meta name='keywords' content='web development, programming' />
    </Head>
-   Welcome to Next
+   <h1>Welcome to Next</h1>
   </div>
  );
 }
